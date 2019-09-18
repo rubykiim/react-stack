@@ -8,7 +8,22 @@
   pointer-events: none;
 }
 
-.App-header {
+h1 {
+  color: black;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+}
+
+.americano {
+  border: solid #ce9169 0.5rem;
+}
+
+.latte {
+  border: dashed #f2cbb1 0.5rem;
+}
+
+
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -17,7 +32,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
