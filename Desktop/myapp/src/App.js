@@ -49,7 +49,7 @@ function App() {
       <div className="CLOUD">
         <h2 id="cloudhd">Cloud</h2>
           <p id="cloudexp">Server of YouTube will both receive and send back numerous information from the users <span>all around the world.</span> </p>
-        <img id="cloud" src="img/cloud.png" alt="city"></img>
+        <img id="cloud" src="img/cloud.png" alt="city"/>
       </div>   
 
       <div className="EARTH">
